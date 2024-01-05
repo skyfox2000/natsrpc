@@ -9,7 +9,7 @@ import (
 
 func main() {
 	opt := natsrpc.Option{
-		Host:     "nats://172.19.158.204:4222",
+		Host:     "nats://localhost:4222",
 		ClientId: "test1",
 		GroupId:  "group1",
 	}
