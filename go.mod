@@ -1,4 +1,4 @@
-module skyfox2000/nats-rpc
+module skyfox2000/natsrpc
 
 go 1.21.0
 

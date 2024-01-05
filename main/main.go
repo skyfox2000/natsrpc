@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	natsrpc "skyfox2000/nats-rpc"
+	natsrpc "skyfox2000/natsrpc"
 	"time"
 )
 
