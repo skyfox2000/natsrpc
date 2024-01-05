@@ -1,4 +1,4 @@
-module skyfox2000/natsrpc
+module github.com/skyfox2000/natsrpc
 
 go 1.21.0
 

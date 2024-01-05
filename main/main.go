@@ -3,8 +3,9 @@ package main
 import (
 	"context"
 	"fmt"
-	natsrpc "skyfox2000/natsrpc"
 	"time"
+
+	natsrpc "github.com/skyfox2000/natsrpc"
 )
 
 func main() {
